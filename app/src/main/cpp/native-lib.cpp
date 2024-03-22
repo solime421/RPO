@@ -10,7 +10,7 @@ mbedtls_ctr_drbg_context ctr_drbg;
 char *personalization = "fclient-sample-app";
 
 
-
+//elloo
 
 extern "C" JNIEXPORT jint
 
